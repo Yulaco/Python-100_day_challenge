@@ -1,0 +1,15 @@
+myName = input("What's your name?: ")
+myLunch = input("What are you having for lunch?: ")
+print(myName, "is going to be chowing down on", myLunch, "very soon!")
+
+yourNmae = input("Name: ")
+whatYear = input("What year is it?: ")
+print(yourName, "thinks it is, whatYear")
+print(yourName, "thinks it is, whatYear")
+
+foodName = input("Name a food > ")
+plant = input("Name a type of plant > ")
+cook = input("Name a method of cooking > ")
+food = ("Whatword describes burned food? > ")
+item = input("Name a DIY item > ")
+print(cook, foodName, "with ruined", plant, "on a bed of", item)
