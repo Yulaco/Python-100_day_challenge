@@ -1,12 +1,14 @@
 print("AFFIRMATIONS FOR THE WEEK")
+print()
 print("===========================================")
+print()
 
-name = input("What is your name? : ")
+name = input("What is your name?: ")
 day = input("Please input the day of the week: ")
-color = input("What is your favorite color? : ")
+color = input("What is your favorite color?: ")
 
 if name == "Tom" or name == "tom":
-    print(f"Hello {name] is is great to have you here? : ")
+    print(f"Hello {name} it is great to have you here?: ")
 elif day == "Monday" or "white":
     print(f"Happy {day}")
     if color == "White" or "white":
