@@ -1,4 +1,4 @@
-# Program casting
+# Casting an integer
 
 myScore = int(input("Your score: "))
 
