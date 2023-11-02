@@ -1,4 +1,4 @@
-# Casting for float
+# Casting a float
 
 myPi = float(input("What is pi to 3dp? "))
 
