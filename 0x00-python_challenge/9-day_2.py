@@ -19,7 +19,7 @@ elif (year > 1965 and year <= 1981):
     print("You belong to Generation X! You were born in the period where the laptop was invented.")
 elif (year > 1982 and year <= 1995):
     print("You are Millenials! You were born in the period when the laptop was invented.")
-elif (year > 1996 and Generation <= 2015):
+elif (year > 1996 and year <= 2015):
     print("Hi, Generation Z! You came around the time of the Xbox, Youtube, Netflix.")
 else:
     print("Please, enter the correct year you were born")
