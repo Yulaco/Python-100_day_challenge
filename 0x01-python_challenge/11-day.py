@@ -27,7 +27,7 @@ thirtyToSeconds = dayToSeconds * 30
 print(f"There are {thirtydaysToSeconds} seconds in 30 days.")
 
 # Converting 11 mon to sec
-monthsToSecons = thirtydaysToSeconds * 11
+monthsToSeconds = thirtydaysToSeconds * 11
 print(f"There are {monthsToSeconds} seconds in 11 months plus the 7 days of months with 31 days.")
 
 # Converting 7 days of the mon with 31 days to sec
