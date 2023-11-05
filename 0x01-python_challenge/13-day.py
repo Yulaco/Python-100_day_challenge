@@ -14,3 +14,20 @@ print(pointReceived)
 
 percentage = round(float((pointReceived / maximumScore) * 100), 2)
 print(percentage)
+
+print('You got', percentage, '%')
+
+if percentage >= 90:
+    print('A+')
+elif percentage >= 80 and percentage <= 89:
+    print('A')
+elif percentage >= 70 and percentage <= 79:
+    print('B')
+elif percentage >= 60 and percentage <= 69:
+    print('C')
+elif percentage >= 50 and percentage <= 59:
+    print('D')
+elif percentage < 50:
+    print('Under 50')
+else:
+    print('Please try again')
