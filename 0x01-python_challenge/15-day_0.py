@@ -1,7 +1,7 @@
 # While loop
 
-exit = ' '
+exit = " "
 
 while exit != "yes"
- print("Great")
+ print("Great exit successful")
 exit = input("Exit?: ")
